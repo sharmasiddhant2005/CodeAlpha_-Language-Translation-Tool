@@ -42,3 +42,6 @@ oText-to-Speech functionality (using Web Speech API).
 API: Deep Translator (Google Translate API wrapper)
 Templating Engine: Jinja2
 Deployment Options: Localhost, or cloud platforms
+
+
+![image alt]([image_url](https://github.com/sharmasiddhant2005/CodeAlpha_-Language-Translation-Tool/blob/c55566568552b40f65ffe0899a10f7615827bcd5/project%20image.PNG))
